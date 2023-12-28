@@ -1,0 +1,35 @@
+
+body {
+  font-family: 'Roboto Slab', serif;
+  color: #333333;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.cookie-container{ 
+  margin-left: 15px;
+  margin-right: 20px;
+  
+}
+.cookie-container h2 {
+  font-family: 'Roboto Slab', serif;
+  color: #333333;
+  font-size: 28px;
+}
+.cookie-container h4{
+  font-size: 18px;
+}
+.cookie-container p{
+  color: #666666;
+  font-weight: normal;
+  font-size: 14px;
+}
+.inline{
+  display: inline;
+}
+.cookie-container a{
+  text-decoration: none;
+  color: #337AB7;
+}
+
+/* Add your additional styling here */
